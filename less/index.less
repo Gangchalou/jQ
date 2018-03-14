@@ -1,0 +1,123 @@
+body, html{
+  margin: 0;
+  padding:0;
+}
+//头部
+.header{
+  width: 100%;
+  height: 71px;
+  background: #fff;
+  .header_wrap{
+    width: 100%;
+    height: 65px;
+    background: #fff;
+    margin-top: 3px;
+    .logo{
+      width: 240px;
+      height: 65px;
+      background: #fff;
+      margin: 3px 50px 3px 176px;
+      float: left;
+      .logo_container{
+        margin-top: 4px;
+        width: 240px;
+        height: 40px;
+      }
+    }
+    .header_container{
+      width: 825px;
+      height: 41.6px;
+      //background: #3555;
+      margin: 14px 160px 0 0 ;
+      float: right;
+      .header_container_nav{
+        margin-top: -1px;
+        li:first-child{
+          margin:0 40px 0 -20px;
+          span{
+            img{
+              vertical-align:text-bottom;
+            }
+            font-weight: bold;
+          }
+        }
+        li{
+          float: left;
+          list-style: none;
+          padding: 8px 0;
+          a{
+            text-decoration: none;
+            //color: #000;
+            font-weight: bold;
+            margin: 10px 15px;
+          }
+        }
+        li:last-child{
+          a{
+            color: white;
+            background-color: #fb474f;
+            padding: 5px 6px;
+            border-radius: 5px;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+//内容区
+.wrap{
+  position: relative;
+  width: 100%;
+  height: 420px;
+  background: #3333;
+  .swiper-container{
+    position: absolute;
+    width: 100%;
+    height: 420px;
+    background: gold;
+
+  }
+  .banner_wrap{
+    position: absolute;
+    width: 180px;
+    height: 420px;
+    left: 190px;
+    background: #808080;
+    z-index:5;
+    >ul{
+      position: absolute;
+      li{
+        list-style: none;
+        display: block;
+        width: 100%;
+        height: 42px;
+        a{
+          text-decoration: none;
+          display: block;
+          width: 180px;
+          height: 42px;
+          i{
+            font-style: normal;
+            font-weight: bold;
+
+          }
+          //隐藏的内容框
+          ul{
+            display: none;
+          }
+        }
+      }
+
+    }
+  }
+}
+
+
+//底部
+.footer{
+  width: 100%;
+  height: 200px;
+  background: #fff;
+}

@@ -1,0 +1,109 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  width: 100%;
+  height: 71px;
+  background: #fff;
+}
+.header .header_wrap {
+  width: 100%;
+  height: 65px;
+  background: #fff;
+  margin-top: 3px;
+}
+.header .header_wrap .logo {
+  width: 240px;
+  height: 65px;
+  background: #fff;
+  margin: 3px 50px 3px 176px;
+  float: left;
+}
+.header .header_wrap .logo .logo_container {
+  margin-top: 4px;
+  width: 240px;
+  height: 40px;
+}
+.header .header_wrap .header_container {
+  width: 825px;
+  height: 41.6px;
+  margin: 14px 160px 0 0 ;
+  float: right;
+}
+.header .header_wrap .header_container .header_container_nav {
+  margin-top: -1px;
+}
+.header .header_wrap .header_container .header_container_nav li:first-child {
+  margin: 0 40px 0 -20px;
+}
+.header .header_wrap .header_container .header_container_nav li:first-child span {
+  font-weight: bold;
+}
+.header .header_wrap .header_container .header_container_nav li:first-child span img {
+  vertical-align: text-bottom;
+}
+.header .header_wrap .header_container .header_container_nav li {
+  float: left;
+  list-style: none;
+  padding: 8px 0;
+}
+.header .header_wrap .header_container .header_container_nav li a {
+  text-decoration: none;
+  font-weight: bold;
+  margin: 10px 15px;
+}
+.header .header_wrap .header_container .header_container_nav li:last-child a {
+  color: white;
+  background-color: #fb474f;
+  padding: 5px 6px;
+  border-radius: 5px;
+}
+.wrap {
+  position: relative;
+  width: 100%;
+  height: 420px;
+  background: #3333;
+}
+.wrap .swiper-container {
+  position: absolute;
+  width: 100%;
+  height: 420px;
+  background: gold;
+}
+.wrap .banner_wrap {
+  position: absolute;
+  width: 180px;
+  height: 420px;
+  left: 190px;
+  background: #808080;
+  z-index: 5;
+}
+.wrap .banner_wrap > ul {
+  position: absolute;
+}
+.wrap .banner_wrap > ul li {
+  list-style: none;
+  display: block;
+  width: 100%;
+  height: 42px;
+}
+.wrap .banner_wrap > ul li a {
+  text-decoration: none;
+  display: block;
+  width: 180px;
+  height: 42px;
+}
+.wrap .banner_wrap > ul li a i {
+  font-style: normal;
+  font-weight: bold;
+}
+.wrap .banner_wrap > ul li a ul {
+  display: none;
+}
+.footer {
+  width: 100%;
+  height: 200px;
+  background: #fff;
+}
