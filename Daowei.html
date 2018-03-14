@@ -5,7 +5,8 @@
   <title>到位</title>
   <link rel="stylesheet" href="./css/index.css">
   <!--swiper样式引入-->
-  <link rel="stylesheet" href="./css/swiper-4.1.6.min.css">
+  <link rel="stylesheet" href="./css/swiper.css">
+  <!--<link rel="stylesheet" href="./css/reset.css">-->
 
 </head>
 <body>
@@ -52,24 +53,24 @@
     </div>
   </header>
 
-  <!--内容-->
+  <!--轮播图-->
   <div class="wrap">
-    <!--轮播外框视口-->
+    <!--轮播-->
     <div class="swiper-container">
-      <!--三倍于视口的图片容器-->
-      <div class="swiper-wrapper">
-        <!--图片裁剪框-->
-        <div class="swiper-slide">
-          <img src="./images/banner1.jpg" alt="pic">
+      <div id="lunbobox">
+        <div class="lunbo">
+          <a href="#"><img src="./images/banner1.jpg"></a>
+          <a href="#"><img src="./images/banner2.jpg"></a>
+          <a href="#"><img src="./images/banner3.jpg"></a>
         </div>
-        <div class="swiper-slide">
-          <img src="./images/banner2.jpg" alt="pic">
-        </div>
-        <div class="swiper-slide">
-          <img src="./images/banner3.jpg" alt="pic">
-        </div>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
       </div>
     </div>
+    <!--二级菜单-->
     <div class="banner_wrap">
       <ul>
         <li>
@@ -136,14 +137,519 @@
     </div>
   </div>
 
+  <!--内容-->
+  <div class="container_list">
+    <!--内容区块-->
+    <div class="container_list_wrap">
+      <div class="list_wrap_inner">
+        <span class="inner_tittle">家庭保洁</span>
+        <div class="work_list" >
+          <a href="#">小时工</a>
+          <a href="#">开荒保洁</a>
+          <a href="#">擦玻璃</a>
+          <a href="#">深度保洁</a>
+          <a href="#">杀虫杀螨</a>
+          <a href="#">家具养护</a>
+        </div>
+        <span class="list_server">更多服务></span>
+        <!--图片区-->
+        <div class="inner_container">
+          <div class="pic_list">
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container_list_wrap">
+      <div class="list_wrap_inner">
+        <span class="inner_tittle">家庭保洁</span>
+        <div class="work_list" >
+          <a href="#">小时工</a>
+          <a href="#">开荒保洁</a>
+          <a href="#">擦玻璃</a>
+          <a href="#">深度保洁</a>
+          <a href="#">杀虫杀螨</a>
+          <a href="#">家具养护</a>
+        </div>
+        <span class="list_server">更多服务></span>
+        <!--图片区-->
+        <div class="inner_container">
+          <div class="pic_list">
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container_list_wrap">
+      <div class="list_wrap_inner">
+        <span class="inner_tittle">家庭保洁</span>
+        <div class="work_list" >
+          <a href="#">小时工</a>
+          <a href="#">开荒保洁</a>
+          <a href="#">擦玻璃</a>
+          <a href="#">深度保洁</a>
+          <a href="#">杀虫杀螨</a>
+          <a href="#">家具养护</a>
+        </div>
+        <span class="list_server">更多服务></span>
+        <!--图片区-->
+        <div class="inner_container">
+          <div class="pic_list">
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container_list_wrap">
+      <div class="list_wrap_inner">
+        <span class="inner_tittle">家庭保洁</span>
+        <div class="work_list" >
+          <a href="#">小时工</a>
+          <a href="#">开荒保洁</a>
+          <a href="#">擦玻璃</a>
+          <a href="#">深度保洁</a>
+          <a href="#">杀虫杀螨</a>
+          <a href="#">家具养护</a>
+        </div>
+        <span class="list_server">更多服务></span>
+        <!--图片区-->
+        <div class="inner_container">
+          <div class="pic_list">
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container_list_wrap">
+      <div class="list_wrap_inner">
+        <span class="inner_tittle">家庭保洁</span>
+        <div class="work_list" >
+          <a href="#">小时工</a>
+          <a href="#">开荒保洁</a>
+          <a href="#">擦玻璃</a>
+          <a href="#">深度保洁</a>
+          <a href="#">杀虫杀螨</a>
+          <a href="#">家具养护</a>
+        </div>
+        <span class="list_server">更多服务></span>
+        <!--图片区-->
+        <div class="inner_container">
+          <div class="pic_list">
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container_list_wrap">
+      <div class="list_wrap_inner">
+        <span class="inner_tittle">家庭保洁</span>
+        <div class="work_list" >
+          <a href="#">小时工</a>
+          <a href="#">开荒保洁</a>
+          <a href="#">擦玻璃</a>
+          <a href="#">深度保洁</a>
+          <a href="#">杀虫杀螨</a>
+          <a href="#">家具养护</a>
+        </div>
+        <span class="list_server">更多服务></span>
+        <!--图片区-->
+        <div class="inner_container">
+          <div class="pic_list">
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+              <div class="pic_list_col">
+                <img src="./images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" alt="pic">
+                <div class="serviceName">全身经络舒缓SPA</div>
+                <div class="description">服务时长：80分钟 仰卧：男女通用所需物品有公司提供流程...</div>
+                <div class="server_price">
+                  <span>198</span>元/次
+                  <span>查看详情</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!--底部-->
   <footer class="footer">
-
+    <div class="ensure">
+      <h2>到位<i>服务</i>保障</h2>
+      <p>到位平台担保交易安全，交易未成功100%退款</p>
+    </div>
+    <div class="server_check">
+      <div class="server_check_list">
+        <span>
+          <img src="./images/anquan.jpg" alt="ok">
+          <span>优选服务</span>
+        </span>
+        <span>
+          <img src="./images/anquan.jpg" alt="ok">
+          <span>全程保障</span>
+        </span>
+        <span>
+          <img src="./images/anquan.jpg" alt="ok">
+          <span>安全无忧</span>
+        </span>
+      </div>
+    </div>
+    <div class="city">
+      <dl>
+        <dt>热门城市</dt>
+        <dd>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+          <a href="javascript:;">郑州</a>
+        </dd>
+      </dl>
+    </div>
   </footer>
 
+
+
+
+
+
+
+
+
+
   <script type="text/javascript" src="./js/jquery-1.10.1.js"></script>
-  <script src="js/swiper-4.1.6.min.js"></script>
+  <script src="js/swiper.js"></script>
   <script type="text/javascript">
    $(document).ready(function () {
 
