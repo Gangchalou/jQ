@@ -109,6 +109,9 @@ html {
 .container_list {
   width: 1522px;
 }
+.container_list .container_list_wrap:nth-child(odd) {
+  background: #FBF8F8;
+}
 .container_list .container_list_wrap {
   width: 100%;
   height: 516px;
@@ -220,13 +223,31 @@ html {
   color: #fff;
   font-size: 14px;
 }
-.container_list .container_list_wrap:nth-child(odd) {
-  background: #FBF8F8;
+.container_list .container_list_wrap .list_wrap_inner > h2 {
+  line-height: 85px;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+.container_list .server_title {
+  width: 1200px;
+  height: 84px;
+  margin: 0 auto;
+  background: gold;
+}
+.container_list .server_title > h2 {
+  line-height: 84px;
+  margin: 0;
+  font-size: 18px;
+}
+.container_list .server_center {
+  width: 1200px;
+  height: 85px;
+  margin: 0 auto;
 }
 .footer {
   position: relative;
   width: 1522px;
-  height: 500px;
 }
 .footer .ensure {
   width: 100%;
@@ -263,6 +284,8 @@ html {
 }
 .footer .server_check .server_check_list > span {
   padding: 0 20px;
+  color: #1d1515;
+  font-size: 18px;
 }
 .footer .server_check .server_check_list > span > img {
   vertical-align: bottom;
@@ -321,9 +344,49 @@ html {
 }
 .buchong .partner {
   width: 1200px;
-  height: 60px;
-  background: darkgrey;
+  margin: 0 auto;
 }
-.buchong .partner > p {
+.buchong .partner .partner_pic {
   width: 1200px;
+  height: 60px;
+}
+.buchong .partner .partner_pic > span {
+  position: relative;
+  float: left;
+  display: block;
+  width: 120px;
+  height: 60px;
+  background: #fff;
+  text-align: center;
+}
+.buchong .partner .partner_pic > span.partner_pic_first ~ span {
+  margin-left: 15px;
+}
+.buchong .partner .partner_pic > span img {
+  position: absolute;
+  width: 100px;
+  height: 47px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+.buchong .partner > p:first-child {
+  line-height: 40px;
+  font-weight: bold;
+  width: 1200px;
+  height: 40px;
+  color: #1d1515;
+  font-size: 18px;
+}
+.buchong .beian {
+  width: 1200px;
+  font-size: 14px;
+  margin: 0 auto;
+  line-height: 40px;
+  color: #898989;
+}
+.buchong .beian > p {
+  margin: 0;
 }

@@ -117,17 +117,17 @@ body, html{
   }
 
 
-
 //内容列表
-
 .container_list{
   width: 1522px;
+  .container_list_wrap:nth-child(odd){
+    background: #FBF8F8;
+  }
   .container_list_wrap{
     width: 100%;
     height: 516px;
     .list_wrap_inner{
       position: relative;
-
       width: 1200px;
       height: 496px;
       margin: 0 auto;
@@ -234,10 +234,31 @@ body, html{
           }
         }
       }
+      >h2{
+        line-height: 85px;
+        width: 1200px;
+        margin: 0 auto;
+        font-size: 18px;
+      }
     }
   }
-  .container_list_wrap:nth-child(odd){
-    background: #FBF8F8;
+  //服务商页面
+  .server_title{
+    width: 1200px;
+    height: 84px;
+    margin: 0 auto;
+    background: gold;
+    >h2{
+      line-height: 84px;
+      margin: 0;
+      font-size: 18px;
+    }
+  }
+  //服务内容区
+  .server_center{
+    width: 1200px;
+    height: 85px;
+    margin: 0 auto;
   }
 
 }
@@ -247,7 +268,6 @@ body, html{
 .footer{
   position: relative;
   width: 1522px;
-  height: 500px;
   //保障
   .ensure{
     width: 100%;
@@ -286,6 +306,8 @@ body, html{
       height: 46px;
       >span{
         padding: 0 20px;
+        color: #1d1515;
+        font-size: 18px;
         >img{
           vertical-align: bottom;
         }
@@ -348,18 +370,64 @@ body, html{
   //合作伙伴
 }
 
+
 //补充
 .buchong{
   width: 1522px;
   background: #FBF8F8;
   .partner{
     width: 1200px;
-    height: 60px;
-    background: darkgrey;
-    >p{
+    //height: 200px;
+    //background: darkgrey;
+    margin: 0 auto;
+    .partner_pic{
       width: 1200px;
+      height: 60px;
+      //background: gold;
+      >span{
+        position: relative;
+        float: left;
+        display: block;
+        width: 120px;
+        height: 60px;
+        background: #fff;
+        text-align: center;
+        &.partner_pic_first~span{
+          margin-left: 15px;
+        }
+        img{
+          position: absolute;
+          width: 100px;
+          height: 47px;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          margin: auto;
+        }
+      }
     }
+    >p:first-child{
+      line-height:40px;
+      font-weight: bold;
+      width: 1200px;
+      height: 40px;
+      color: #1d1515;
+      font-size: 18px;
+    }
+  }
 
+  .beian{
+    width: 1200px;
+    //height: 40px;
+    font-size: 14px;
+    margin: 0 auto;
+    line-height: 40px;
+    color: #898989;
+    //background: darkcyan;
+    >p{
+      margin: 0;
+    }
   }
 
 }
