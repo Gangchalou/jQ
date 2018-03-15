@@ -79,7 +79,7 @@ body, html{
     //background: gold;
   }
   //二级菜单
-  .banner_wrap{
+  /*.banner_wrap{
     position: absolute;
     width: 180px;
     height: 420px;
@@ -113,11 +113,13 @@ body, html{
       }
 
     }
+  }*/
   }
-  }
+
 
 
 //内容列表
+
 .container_list{
   width: 1522px;
   .container_list_wrap{
@@ -240,10 +242,13 @@ body, html{
 
 }
 
+
 //底部
 .footer{
+  position: relative;
   width: 1522px;
   height: 500px;
+  //保障
   .ensure{
     width: 100%;
     height: 147px;
@@ -270,6 +275,7 @@ body, html{
 
     }
   }
+  //服务选择
   .server_check{
     width: 100%;
     height: 66px;
@@ -286,28 +292,74 @@ body, html{
       }
     }
   }
-  .city{
+  //城市选择
+  .city_server{
+    position: relative;
     width: 100%;
-    height: 29.6*3px;
-    background: darkgray;
-    >dl{
-      width: 100%;
-      margin: 0 auto;
-      >dt{
+    height: 170px;
+    //background: darkcyan;
+    .city{
+      position: absolute;
+      width: 1200px;
+      height: 90px;
+      //background: darkgrey;
+      left: 50%;
+      transform: translateX(-50%);
+      bottom: 0;
+      .city_title{
+        width: 74px;
+        height: 26px;
+        background: #fff;
         float: left;
         font-family: " 微软雅黑";
         font-size: 18px;
         font-weight: 700;
-      }
-      >dd{
-        float: left;
-        font-weight: 700;
-
-        >a{
-          text-decoration: none;
+        &:hover{
+          background: #23527c;
         }
+      }
+      .city_option{
+        width: 1078px;
+        height: 90px;
+        float: right;
+        font-size: 16px;
+        color: #898989;
+        text-align: center;
+        font-weight: 200;
+        cursor: pointer;
+        font-family: "微软雅黑";
+        >span{
+          line-height: 29px;
+          display: inline-block;
+          width:98px;
+          height: 29px;
+          background-color: white;
+          float: left;
+          margin-bottom: 1px;
+          &:hover{
+            background: #337ab7;
+          }
+        }
+        
       }
     }
 
   }
+  //合作伙伴
+}
+
+//补充
+.buchong{
+  width: 1522px;
+  background: #FBF8F8;
+  .partner{
+    width: 1200px;
+    height: 60px;
+    background: darkgrey;
+    >p{
+      width: 1200px;
+    }
+
+  }
+
 }
