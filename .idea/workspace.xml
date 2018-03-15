@@ -2,88 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cdce170-0f89-4cd9-afd8-a97429f47952" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/keep.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1255ea44-8e38-46c6-b336-3d29b2721844_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1468d89d-df46-4a0a-8f31-77aa6d5854b7_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1594e212-2cc9-4bea-a18b-14b08676f78a_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/168fcc5e-69cd-4652-af06-7faf66754013_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/16dd78e6-4fbb-4810-b941-e68060b6baa7_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/20851d75-b5c8-41bd-92cb-7937eeed7d89_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/23861d73-0c3b-4c2e-9a7c-d307cf6502a1_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/28a4d43d-3c16-4388-9188-dc2855b331a7_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2c2ce1bb-c041-4b3c-95a4-121ce38aa56b_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3d45e80c-71e5-45b5-8ee7-1db9a0280523_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3f2e0624-0994-48ba-a80f-52ec076e9f3e_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/47bb440b-5292-4100-8b16-88779f759bf5_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/5ae86d7c-6aba-4090-93ef-1a1762a78609_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/71a7a1c1-2d88-4834-877e-3d630d611c15_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/79d5c372-fde0-4e0e-8fed-5e1b6fbd7642_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7ab8d7c9-5825-4dbd-9ce0-c10b53d52f59_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7ba87dd9-dc9c-43cc-aa93-ba0f5f704644_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7ce78385-769d-4661-95e3-2f4bc2adb5ec_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/828b41bd-2b21-4127-880b-069ff6cdf0b9_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/832382ec-51e2-42a8-90f3-3ef86ab75a1c_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8505580f-d1b9-48e3-924b-527a7891374d_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8506888a-3514-45df-b3ad-b383fa903591_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8de1426a-163c-4398-80fd-a892198e0fe8_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/915d51ad-a07f-476a-aec4-fcfdb88a33f3_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/95850b11-26f1-4706-a3b7-61f57174f3ee_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/96826989-a579-4093-b3a5-54949d25bc24_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/997029b1-5e97-456a-b4ca-c188028c5362_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/a250e83a-e0a5-465b-a2bd-186d9c009b74_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/a3e3d572-faac-4d21-954f-948816fa7c65_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/anquan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/b40ab8f5-4d94-465d-8311-a8270c4d2f59_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bac42d83-e4aa-458c-a4ac-eb09ecbe4a6e_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bbdb92dc-b487-4627-bdd0-55dee5f165e1_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bd3504fb-6c13-41f1-8fac-d963ab85db5e_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bf1925de-f679-4ee4-a2eb-16476185a41b_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/c358bd9f-2e52-4537-86b4-c356276a3515_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/c6ec1894-f723-4871-82ff-60cb7ef8c0cb_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/c8f9037c-8deb-4848-8713-11d8f981e43d_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cce534a8-1360-487b-8e18-c404b9b71319_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cd8be51d-4b4e-4713-bb0b-73508dc37c06_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/citypoint@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/d401cd0b-d89f-4bbf-be9d-5c9d632b8811_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dc366a20-f972-4a0b-97a1-393ff80755ea_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/de8efc1b-c521-45a8-871f-6514a4e443a0_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/e4e6056e-4a4c-4adf-9543-6a55f93380b3_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/e56397a4-ac2b-4ff8-843d-00ed0bca2de2_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/edd4ab2b-65c0-46ee-8d88-fe13c8c59dc3_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/efe06728-19c0-4e4b-94e1-16c0d778d3a6_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/f2c48378-b7fb-4207-bde3-fc9a42a7f1ec_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/f3abb209-47a6-45d9-9572-84f3bda18c2e_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ff7f8614-074e-43b0-910a-6d865f22f855_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/guanjia.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hua.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hushi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ic-x-gray.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jiaji.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jiawu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jiaxiu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jiazheng.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/kala.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lairen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lidashi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/meidao.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/meidao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mifeng.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/qiaomao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/right@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shanxiu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weixiu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xiaohushi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/zuomu.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/yunjiazheng.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunjiazheng.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/less/keep.less" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daowei.html" afterPath="$PROJECT_DIR$/Daowei.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/index.less" afterPath="$PROJECT_DIR$/less/index.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Daowei.html" afterPath="$PROJECT_DIR$/daowei.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -97,14 +21,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server.html">
+      <file leaf-file-name="yunjiazheng.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunjiazheng.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="61" column="11" lean-forward="true" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+            <state relative-caret-position="286">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -115,30 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less/index.less">
+      <file leaf-file-name="yunjiazheng.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/less/yunjiazheng.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="261" column="3" lean-forward="true" selection-start-line="261" selection-start-column="3" selection-end-line="261" selection-end-column="3" />
+            <state relative-caret-position="354">
+              <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
               <folding>
+                <element signature="e#52#1258#0" expanded="false" />
                 <element signature="e#211#435#0" expanded="false" />
                 <element signature="e#629#805#0" expanded="false" />
                 <element signature="e#695#752#0" expanded="false" />
                 <element signature="e#816#1053#0" expanded="false" />
-                <element signature="e#1272#2135#0" expanded="false" />
-                <element signature="e#1377#1468#0" expanded="false" />
-                <element signature="e#1480#2131#0" expanded="false" />
-                <element signature="e#2216#2246#0" expanded="false" />
-                <element signature="e#2269#5409#0" expanded="false" />
-                <element signature="e#5435#5599#0" expanded="false" />
-                <element signature="e#5523#5595#0" expanded="false" />
-                <element signature="e#5706#7706#0" expanded="false" />
-                <element signature="e#6124#6229#0" expanded="false" />
-                <element signature="e#7722#8787#0" expanded="false" />
-                <element signature="e#7880#8422#0" expanded="false" />
-                <element signature="e#8165#8205#0" expanded="false" />
-                <element signature="e#8217#8408#0" expanded="false" />
-                <element signature="e#8597#8784#0" expanded="false" />
+                <element signature="e#2102#2493#0" expanded="false" />
+                <element signature="e#3211#3316#0" expanded="false" />
+                <element signature="e#4801#5866#0" expanded="false" />
+                <element signature="e#4959#5501#0" expanded="false" />
+                <element signature="e#5244#5284#0" expanded="false" />
+                <element signature="e#5296#5487#0" expanded="false" />
+                <element signature="e#5676#5863#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -188,9 +109,11 @@
         <option value="$PROJECT_DIR$/i.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/Daowei.html" />
-        <option value="$PROJECT_DIR$/server.html" />
         <option value="$PROJECT_DIR$/less/keep.less" />
+        <option value="$PROJECT_DIR$/server.html" />
         <option value="$PROJECT_DIR$/less/index.less" />
+        <option value="$PROJECT_DIR$/less/yunjiazheng.less" />
+        <option value="$PROJECT_DIR$/yunjiazheng.html" />
       </list>
     </option>
   </component>
@@ -200,11 +123,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="2" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-57" />
+    <option name="y" value="-8" />
     <option name="width" value="1932" />
-    <option name="height" value="1053" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -232,7 +155,7 @@
             <path>
               <item name="daowei" type="b2602c69:ProjectViewProjectNode" />
               <item name="daowei" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,7 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Program Files/feiq/Recv Files/html+css+js/DAY28/code" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -251,12 +174,13 @@
     <property name="list.type.of.created.stylesheet" value="Less" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Aqianduan\shizhan\daowei\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aqianduan\shizhan\daowei" />
       <recent name="D:\Aqianduan\shizhan\daowei\js" />
       <recent name="D:\Aqianduan\shizhan\daowei\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Aqianduan\shizhan\daowei\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,7 +210,7 @@
       <workItem from="1521017291383" duration="11179000" />
       <workItem from="1521032220370" duration="13358000" />
       <workItem from="1521073590897" duration="14129000" />
-      <workItem from="1521092983897" duration="4522000" />
+      <workItem from="1521092983897" duration="9990000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1521022106595</created>
@@ -306,20 +230,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65993000" />
+    <option name="totallyTimeSpent" value="71461000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1932" height="1053" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1064" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08226496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.063432835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20215054" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19151251" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18924731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -346,7 +270,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daowei.html">
+    <entry file="file://$PROJECT_DIR$/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="745" selection-end-column="7" />
@@ -359,6 +283,7 @@
         <state relative-caret-position="5390">
           <caret line="245" column="21" lean-forward="true" selection-start-line="245" selection-start-column="21" selection-end-line="245" selection-end-column="21" />
           <folding>
+            <element signature="e#52#1258#0" expanded="false" />
             <element signature="e#211#435#0" expanded="false" />
             <element signature="e#629#805#0" expanded="false" />
             <element signature="e#695#752#0" expanded="false" />
@@ -368,15 +293,16 @@
             <element signature="e#1480#2131#0" expanded="false" />
             <element signature="e#2216#2246#0" expanded="false" />
             <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5435#5599#0" expanded="false" />
-            <element signature="e#5523#5595#0" expanded="false" />
-            <element signature="e#5706#7706#0" expanded="false" />
-            <element signature="e#6124#6229#0" expanded="false" />
-            <element signature="e#7722#8787#0" expanded="false" />
-            <element signature="e#7880#8422#0" expanded="false" />
-            <element signature="e#8165#8205#0" expanded="false" />
-            <element signature="e#8217#8408#0" expanded="false" />
-            <element signature="e#8597#8784#0" expanded="false" />
+            <element signature="e#5437#5601#0" expanded="false" />
+            <element signature="e#5525#5597#0" expanded="false" />
+            <element signature="e#5628#5690#0" expanded="false" />
+            <element signature="e#5710#7710#0" expanded="false" />
+            <element signature="e#6128#6233#0" expanded="false" />
+            <element signature="e#7726#8791#0" expanded="false" />
+            <element signature="e#7884#8426#0" expanded="false" />
+            <element signature="e#8169#8209#0" expanded="false" />
+            <element signature="e#8221#8412#0" expanded="false" />
+            <element signature="e#8601#8788#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -397,7 +323,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daowei.html">
+    <entry file="file://$PROJECT_DIR$/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -410,6 +336,7 @@
         <state relative-caret-position="6732">
           <caret line="306" column="0" lean-forward="false" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="32" />
           <folding>
+            <element signature="e#52#1258#0" expanded="false" />
             <element signature="e#211#435#0" expanded="false" />
             <element signature="e#629#805#0" expanded="false" />
             <element signature="e#695#752#0" expanded="false" />
@@ -419,20 +346,21 @@
             <element signature="e#1480#2131#0" expanded="false" />
             <element signature="e#2216#2246#0" expanded="false" />
             <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5435#5599#0" expanded="false" />
-            <element signature="e#5523#5595#0" expanded="false" />
-            <element signature="e#5706#7706#0" expanded="false" />
-            <element signature="e#6124#6229#0" expanded="false" />
-            <element signature="e#7722#8787#0" expanded="false" />
-            <element signature="e#7880#8422#0" expanded="false" />
-            <element signature="e#8165#8205#0" expanded="false" />
-            <element signature="e#8217#8408#0" expanded="false" />
-            <element signature="e#8597#8784#0" expanded="false" />
+            <element signature="e#5437#5601#0" expanded="false" />
+            <element signature="e#5525#5597#0" expanded="false" />
+            <element signature="e#5628#5690#0" expanded="false" />
+            <element signature="e#5710#7710#0" expanded="false" />
+            <element signature="e#6128#6233#0" expanded="false" />
+            <element signature="e#7726#8791#0" expanded="false" />
+            <element signature="e#7884#8426#0" expanded="false" />
+            <element signature="e#8169#8209#0" expanded="false" />
+            <element signature="e#8221#8412#0" expanded="false" />
+            <element signature="e#8601#8788#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daowei.html">
+    <entry file="file://$PROJECT_DIR$/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -445,6 +373,7 @@
         <state relative-caret-position="2684">
           <caret line="122" column="15" lean-forward="false" selection-start-line="122" selection-start-column="15" selection-end-line="122" selection-end-column="15" />
           <folding>
+            <element signature="e#52#1258#0" expanded="false" />
             <element signature="e#211#435#0" expanded="false" />
             <element signature="e#629#805#0" expanded="false" />
             <element signature="e#695#752#0" expanded="false" />
@@ -454,20 +383,21 @@
             <element signature="e#1480#2131#0" expanded="false" />
             <element signature="e#2216#2246#0" expanded="false" />
             <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5435#5599#0" expanded="false" />
-            <element signature="e#5523#5595#0" expanded="false" />
-            <element signature="e#5706#7706#0" expanded="false" />
-            <element signature="e#6124#6229#0" expanded="false" />
-            <element signature="e#7722#8787#0" expanded="false" />
-            <element signature="e#7880#8422#0" expanded="false" />
-            <element signature="e#8165#8205#0" expanded="false" />
-            <element signature="e#8217#8408#0" expanded="false" />
-            <element signature="e#8597#8784#0" expanded="false" />
+            <element signature="e#5437#5601#0" expanded="false" />
+            <element signature="e#5525#5597#0" expanded="false" />
+            <element signature="e#5628#5690#0" expanded="false" />
+            <element signature="e#5710#7710#0" expanded="false" />
+            <element signature="e#6128#6233#0" expanded="false" />
+            <element signature="e#7726#8791#0" expanded="false" />
+            <element signature="e#7884#8426#0" expanded="false" />
+            <element signature="e#8169#8209#0" expanded="false" />
+            <element signature="e#8221#8412#0" expanded="false" />
+            <element signature="e#8601#8788#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daowei.html">
+    <entry file="file://$PROJECT_DIR$/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -480,6 +410,7 @@
         <state relative-caret-position="2266">
           <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding>
+            <element signature="e#52#1258#0" expanded="false" />
             <element signature="e#211#435#0" expanded="false" />
             <element signature="e#629#805#0" expanded="false" />
             <element signature="e#695#752#0" expanded="false" />
@@ -489,20 +420,21 @@
             <element signature="e#1480#2131#0" expanded="false" />
             <element signature="e#2216#2246#0" expanded="false" />
             <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5435#5599#0" expanded="false" />
-            <element signature="e#5523#5595#0" expanded="false" />
-            <element signature="e#5706#7706#0" expanded="false" />
-            <element signature="e#6124#6229#0" expanded="false" />
-            <element signature="e#7722#8787#0" expanded="false" />
-            <element signature="e#7880#8422#0" expanded="false" />
-            <element signature="e#8165#8205#0" expanded="false" />
-            <element signature="e#8217#8408#0" expanded="false" />
-            <element signature="e#8597#8784#0" expanded="false" />
+            <element signature="e#5437#5601#0" expanded="false" />
+            <element signature="e#5525#5597#0" expanded="false" />
+            <element signature="e#5628#5690#0" expanded="false" />
+            <element signature="e#5710#7710#0" expanded="false" />
+            <element signature="e#6128#6233#0" expanded="false" />
+            <element signature="e#7726#8791#0" expanded="false" />
+            <element signature="e#7884#8426#0" expanded="false" />
+            <element signature="e#8169#8209#0" expanded="false" />
+            <element signature="e#8221#8412#0" expanded="false" />
+            <element signature="e#8601#8788#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daowei.html">
+    <entry file="file://$PROJECT_DIR$/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -565,9 +497,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#79#143#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -579,34 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="261" column="3" lean-forward="true" selection-start-line="261" selection-start-column="3" selection-end-line="261" selection-end-column="3" />
-          <folding>
-            <element signature="e#211#435#0" expanded="false" />
-            <element signature="e#629#805#0" expanded="false" />
-            <element signature="e#695#752#0" expanded="false" />
-            <element signature="e#816#1053#0" expanded="false" />
-            <element signature="e#1272#2135#0" expanded="false" />
-            <element signature="e#1377#1468#0" expanded="false" />
-            <element signature="e#1480#2131#0" expanded="false" />
-            <element signature="e#2216#2246#0" expanded="false" />
-            <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5435#5599#0" expanded="false" />
-            <element signature="e#5523#5595#0" expanded="false" />
-            <element signature="e#5706#7706#0" expanded="false" />
-            <element signature="e#6124#6229#0" expanded="false" />
-            <element signature="e#7722#8787#0" expanded="false" />
-            <element signature="e#7880#8422#0" expanded="false" />
-            <element signature="e#8165#8205#0" expanded="false" />
-            <element signature="e#8217#8408#0" expanded="false" />
-            <element signature="e#8597#8784#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daowei.html">
+    <entry file="file://$PROJECT_DIR$/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="53" column="11" lean-forward="true" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
@@ -624,10 +527,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/less/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="266" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="436" selection-end-column="1" />
+          <folding>
+            <element signature="e#52#1258#0" expanded="false" />
+            <element signature="e#211#435#0" expanded="false" />
+            <element signature="e#629#805#0" expanded="false" />
+            <element signature="e#695#752#0" expanded="false" />
+            <element signature="e#816#1053#0" expanded="false" />
+            <element signature="e#1272#2135#0" expanded="false" />
+            <element signature="e#1377#1468#0" expanded="false" />
+            <element signature="e#1480#2131#0" expanded="false" />
+            <element signature="e#2216#2246#0" expanded="false" />
+            <element signature="e#2269#5409#0" expanded="false" />
+            <element signature="e#5437#5601#0" expanded="false" />
+            <element signature="e#5525#5597#0" expanded="false" />
+            <element signature="e#5628#5690#0" expanded="false" />
+            <element signature="e#5710#7710#0" expanded="false" />
+            <element signature="e#6128#6233#0" expanded="false" />
+            <element signature="e#7726#8791#0" expanded="false" />
+            <element signature="e#7884#8426#0" expanded="false" />
+            <element signature="e#8169#8209#0" expanded="false" />
+            <element signature="e#8221#8412#0" expanded="false" />
+            <element signature="e#8601#8788#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="61" column="11" lean-forward="true" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+        <state relative-caret-position="183">
+          <caret line="208" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="224" selection-end-column="7" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -636,6 +568,54 @@
             <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/yunjiazheng.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiazheng.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/yunjiazheng.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+          <folding>
+            <element signature="e#52#1258#0" expanded="false" />
+            <element signature="e#211#435#0" expanded="false" />
+            <element signature="e#629#805#0" expanded="false" />
+            <element signature="e#695#752#0" expanded="false" />
+            <element signature="e#816#1053#0" expanded="false" />
+            <element signature="e#2102#2493#0" expanded="false" />
+            <element signature="e#3211#3316#0" expanded="false" />
+            <element signature="e#4801#5866#0" expanded="false" />
+            <element signature="e#4959#5501#0" expanded="false" />
+            <element signature="e#5244#5284#0" expanded="false" />
+            <element signature="e#5296#5487#0" expanded="false" />
+            <element signature="e#5676#5863#0" expanded="false" />
           </folding>
         </state>
       </provider>
