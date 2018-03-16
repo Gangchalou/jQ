@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test</title>
+  <!--<script type="text/javascript" src="http://libs.useso.com/js/jquery/1.11.1/jquery.min.js"></script>-->
+  <style>
+    .top-title {
+      background: #e74c3c;
+      color: white;
+      font-size: 24px;
+      padding: 5px;
+      text-align: center;
+      left: 0;
+      top: 0;
+      width: 100%;
+
+
+      position: fixed;
+      transition: top .5s;
+    }
+
+    .hiddened {
+      top: -90px;
+    }
+
+    .showed {
+      top: 0;
+      z-index: 9999;
+    }
+
+    .margint{
+      width: 50%;
+      height: 1000px;
+      background: gainsboro;
+         }
+  </style>
+</head>
+<body>
+<div class="top-title">这是顶部导航条</div>
+<div class="margint">
+  <p>滚动看效果</p>
+  <p>滚动看效果</p>
+</div>
+
+
+<script type="text/javascript" src="public/js/jquery-1.10.1.js"></script>
+<script type="text/javascript">
+  $(function(){
+    var winHeight = $(document).scrollTop();
+
+    $(window).scroll(function() {
+      var scrollY = $(document).scrollTop();// 获取垂直滚动的距离，即滚动了多少
+
+      if (scrollY > 50){ //如果滚动距离大于550px则隐藏，否则删除隐藏类
+        $('.top-title').addClass('hiddened');
+      }
+      else {
+        $('.top-title').removeClass('hiddened');
+      }
+
+      if (scrollY > winHeight){ //如果没滚动到顶部，删除显示类，否则添加显示类
+        $('.top-title').removeClass('showed');
+      }
+      else {
+        $('.top-title').addClass('showed');
+      }
+
+    });
+  });
+
+</script>
+</body>
+</html>

@@ -2,10 +2,242 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cdce170-0f89-4cd9-afd8-a97429f47952" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/daowei.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/yunjiazheng.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_head_hideandshow2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/db.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test1.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/yunjiazheng.css" afterPath="$PROJECT_DIR$/css/yunjiazheng.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/yunjiazheng.less" afterPath="$PROJECT_DIR$/less/yunjiazheng.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunjiazheng.html" afterPath="$PROJECT_DIR$/yunjiazheng.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/public/css/index.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/public/css/reset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/swiper.css" afterPath="$PROJECT_DIR$/public/css/swiper.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/yunjiazheng.css" afterPath="$PROJECT_DIR$/public/css/yunjiazheng.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/daowei.html" afterPath="$PROJECT_DIR$/public/daowei.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/0 (1).jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/0 (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/0 (2).jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/0 (2).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/0.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/034add85-b83d-45d4-993b-26a79060a2d0_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/034add85-b83d-45d4-993b-26a79060a2d0_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/132 (1).jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/132 (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/132 (2).jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/132 (2).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/132 (3).jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/132 (3).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/132.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/132.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/47bb440b-5292-4100-8b16-88779f759bf5_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/47bb440b-5292-4100-8b16-88779f759bf5_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/anquan.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/anquan.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/canvas.png" afterPath="$PROJECT_DIR$/public/images/home_pic/canvas.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/citypoint.png" afterPath="$PROJECT_DIR$/public/images/home_pic/citypoint.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/citypoint@2x.png" afterPath="$PROJECT_DIR$/public/images/home_pic/citypoint@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/daowayApp.png" afterPath="$PROJECT_DIR$/public/images/home_pic/daowayApp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/e9575b1b-9b49-4de0-abdd-701742ec0bf3_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/e9575b1b-9b49-4de0-abdd-701742ec0bf3_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/favicon.png" afterPath="$PROJECT_DIR$/public/images/home_pic/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/fuwushang2_07.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/fuwushang2_07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/fuwushang2_10.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/fuwushang2_10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/fuwushangimg.png" afterPath="$PROJECT_DIR$/public/images/home_pic/fuwushangimg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/gray_star.png" afterPath="$PROJECT_DIR$/public/images/home_pic/gray_star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/ic-x-gray.svg" afterPath="$PROJECT_DIR$/public/images/home_pic/ic-x-gray.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/logo.png" afterPath="$PROJECT_DIR$/public/images/home_pic/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/logo@2x.png" afterPath="$PROJECT_DIR$/public/images/home_pic/logo@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/position.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/position.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/red_star.png" afterPath="$PROJECT_DIR$/public/images/home_pic/red_star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/home_pic/renzheng.jpg" afterPath="$PROJECT_DIR$/public/images/home_pic/renzheng.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/1255ea44-8e38-46c6-b336-3d29b2721844_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/1255ea44-8e38-46c6-b336-3d29b2721844_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/1468d89d-df46-4a0a-8f31-77aa6d5854b7_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/1468d89d-df46-4a0a-8f31-77aa6d5854b7_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/1594e212-2cc9-4bea-a18b-14b08676f78a_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/1594e212-2cc9-4bea-a18b-14b08676f78a_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/168fcc5e-69cd-4652-af06-7faf66754013_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/168fcc5e-69cd-4652-af06-7faf66754013_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/16dd78e6-4fbb-4810-b941-e68060b6baa7_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/16dd78e6-4fbb-4810-b941-e68060b6baa7_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/20851d75-b5c8-41bd-92cb-7937eeed7d89_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/20851d75-b5c8-41bd-92cb-7937eeed7d89_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/23861d73-0c3b-4c2e-9a7c-d307cf6502a1_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/23861d73-0c3b-4c2e-9a7c-d307cf6502a1_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/28a4d43d-3c16-4388-9188-dc2855b331a7_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/28a4d43d-3c16-4388-9188-dc2855b331a7_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/2c2ce1bb-c041-4b3c-95a4-121ce38aa56b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/2c2ce1bb-c041-4b3c-95a4-121ce38aa56b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/3d45e80c-71e5-45b5-8ee7-1db9a0280523_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/3d45e80c-71e5-45b5-8ee7-1db9a0280523_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/3f2e0624-0994-48ba-a80f-52ec076e9f3e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/3f2e0624-0994-48ba-a80f-52ec076e9f3e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/450c0820-3992-40c5-8c9c-44ecf7d2a564_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/47bb440b-5292-4100-8b16-88779f759bf5_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/47bb440b-5292-4100-8b16-88779f759bf5_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/5ae86d7c-6aba-4090-93ef-1a1762a78609_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/5ae86d7c-6aba-4090-93ef-1a1762a78609_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/71a7a1c1-2d88-4834-877e-3d630d611c15_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/71a7a1c1-2d88-4834-877e-3d630d611c15_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/79d5c372-fde0-4e0e-8fed-5e1b6fbd7642_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/79d5c372-fde0-4e0e-8fed-5e1b6fbd7642_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/7ab8d7c9-5825-4dbd-9ce0-c10b53d52f59_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/7ab8d7c9-5825-4dbd-9ce0-c10b53d52f59_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/7ba87dd9-dc9c-43cc-aa93-ba0f5f704644_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/7ba87dd9-dc9c-43cc-aa93-ba0f5f704644_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/7ce78385-769d-4661-95e3-2f4bc2adb5ec_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/7ce78385-769d-4661-95e3-2f4bc2adb5ec_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/828b41bd-2b21-4127-880b-069ff6cdf0b9_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/828b41bd-2b21-4127-880b-069ff6cdf0b9_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/832382ec-51e2-42a8-90f3-3ef86ab75a1c_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/832382ec-51e2-42a8-90f3-3ef86ab75a1c_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/8505580f-d1b9-48e3-924b-527a7891374d_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/8505580f-d1b9-48e3-924b-527a7891374d_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/8506888a-3514-45df-b3ad-b383fa903591_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/8506888a-3514-45df-b3ad-b383fa903591_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/8de1426a-163c-4398-80fd-a892198e0fe8_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/8de1426a-163c-4398-80fd-a892198e0fe8_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/915d51ad-a07f-476a-aec4-fcfdb88a33f3_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/915d51ad-a07f-476a-aec4-fcfdb88a33f3_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/95850b11-26f1-4706-a3b7-61f57174f3ee_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/95850b11-26f1-4706-a3b7-61f57174f3ee_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/96826989-a579-4093-b3a5-54949d25bc24_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/96826989-a579-4093-b3a5-54949d25bc24_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/997029b1-5e97-456a-b4ca-c188028c5362_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/997029b1-5e97-456a-b4ca-c188028c5362_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/a250e83a-e0a5-465b-a2bd-186d9c009b74_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/a250e83a-e0a5-465b-a2bd-186d9c009b74_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/a3e3d572-faac-4d21-954f-948816fa7c65_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/a3e3d572-faac-4d21-954f-948816fa7c65_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/anquan.jpg" afterPath="$PROJECT_DIR$/public/images/main/anquan.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/b40ab8f5-4d94-465d-8311-a8270c4d2f59_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/b40ab8f5-4d94-465d-8311-a8270c4d2f59_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/bac42d83-e4aa-458c-a4ac-eb09ecbe4a6e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/bac42d83-e4aa-458c-a4ac-eb09ecbe4a6e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/banner1.jpg" afterPath="$PROJECT_DIR$/public/images/main/banner1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/banner2.jpg" afterPath="$PROJECT_DIR$/public/images/main/banner2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/banner3.jpg" afterPath="$PROJECT_DIR$/public/images/main/banner3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/bbdb92dc-b487-4627-bdd0-55dee5f165e1_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/bbdb92dc-b487-4627-bdd0-55dee5f165e1_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/bd3504fb-6c13-41f1-8fac-d963ab85db5e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/bd3504fb-6c13-41f1-8fac-d963ab85db5e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/bf1925de-f679-4ee4-a2eb-16476185a41b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/bf1925de-f679-4ee4-a2eb-16476185a41b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/c358bd9f-2e52-4537-86b4-c356276a3515_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/c358bd9f-2e52-4537-86b4-c356276a3515_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/c6ec1894-f723-4871-82ff-60cb7ef8c0cb_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/c6ec1894-f723-4871-82ff-60cb7ef8c0cb_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/c8f9037c-8deb-4848-8713-11d8f981e43d_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/c8f9037c-8deb-4848-8713-11d8f981e43d_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/cce534a8-1360-487b-8e18-c404b9b71319_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/cce534a8-1360-487b-8e18-c404b9b71319_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/cd8be51d-4b4e-4713-bb0b-73508dc37c06_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/cd8be51d-4b4e-4713-bb0b-73508dc37c06_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/citypoint@2x.png" afterPath="$PROJECT_DIR$/public/images/main/citypoint@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/d401cd0b-d89f-4bbf-be9d-5c9d632b8811_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/d401cd0b-d89f-4bbf-be9d-5c9d632b8811_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/dc366a20-f972-4a0b-97a1-393ff80755ea_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/dc366a20-f972-4a0b-97a1-393ff80755ea_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/de8efc1b-c521-45a8-871f-6514a4e443a0_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/de8efc1b-c521-45a8-871f-6514a4e443a0_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/e4e6056e-4a4c-4adf-9543-6a55f93380b3_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/e4e6056e-4a4c-4adf-9543-6a55f93380b3_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/e56397a4-ac2b-4ff8-843d-00ed0bca2de2_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/e56397a4-ac2b-4ff8-843d-00ed0bca2de2_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/edd4ab2b-65c0-46ee-8d88-fe13c8c59dc3_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/edd4ab2b-65c0-46ee-8d88-fe13c8c59dc3_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/efe06728-19c0-4e4b-94e1-16c0d778d3a6_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/efe06728-19c0-4e4b-94e1-16c0d778d3a6_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/f2c48378-b7fb-4207-bde3-fc9a42a7f1ec_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/f2c48378-b7fb-4207-bde3-fc9a42a7f1ec_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/f3abb209-47a6-45d9-9572-84f3bda18c2e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/f3abb209-47a6-45d9-9572-84f3bda18c2e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/ff7f8614-074e-43b0-910a-6d865f22f855_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/main/ff7f8614-074e-43b0-910a-6d865f22f855_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/guanjia.jpg" afterPath="$PROJECT_DIR$/public/images/main/guanjia.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/hua.jpg" afterPath="$PROJECT_DIR$/public/images/main/hua.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/hushi.png" afterPath="$PROJECT_DIR$/public/images/main/hushi.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/ic-x-gray.svg" afterPath="$PROJECT_DIR$/public/images/main/ic-x-gray.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/jiaji.jpg" afterPath="$PROJECT_DIR$/public/images/main/jiaji.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/jiawu.png" afterPath="$PROJECT_DIR$/public/images/main/jiawu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/jiaxiu.jpg" afterPath="$PROJECT_DIR$/public/images/main/jiaxiu.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/jiazheng.png" afterPath="$PROJECT_DIR$/public/images/main/jiazheng.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/kala.jpg" afterPath="$PROJECT_DIR$/public/images/main/kala.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/lairen.jpg" afterPath="$PROJECT_DIR$/public/images/main/lairen.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/lidashi.jpg" afterPath="$PROJECT_DIR$/public/images/main/lidashi.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/logo@2x.png" afterPath="$PROJECT_DIR$/public/images/main/logo@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/meidao.jpg" afterPath="$PROJECT_DIR$/public/images/main/meidao.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/meidao.png" afterPath="$PROJECT_DIR$/public/images/main/meidao.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/mifeng.jpg" afterPath="$PROJECT_DIR$/public/images/main/mifeng.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/qiaomao.png" afterPath="$PROJECT_DIR$/public/images/main/qiaomao.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/right@2x.png" afterPath="$PROJECT_DIR$/public/images/main/right@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/shanxiu.jpg" afterPath="$PROJECT_DIR$/public/images/main/shanxiu.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/weixiu.jpg" afterPath="$PROJECT_DIR$/public/images/main/weixiu.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/xiaohushi.jpg" afterPath="$PROJECT_DIR$/public/images/main/xiaohushi.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/main/zuomu.jpg" afterPath="$PROJECT_DIR$/public/images/main/zuomu.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/00284e6f-81f5-4c37-b09a-fe44e9587ec0_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/00284e6f-81f5-4c37-b09a-fe44e9587ec0_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/003606da-64f7-4370-8b07-ddfc8f31a938_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/003606da-64f7-4370-8b07-ddfc8f31a938_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/03e71483-7aae-407a-86b4-b78fc85d5a03_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/03e71483-7aae-407a-86b4-b78fc85d5a03_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/0721f4e2-6d5a-4740-9086-1224ca7a1fd7_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/0721f4e2-6d5a-4740-9086-1224ca7a1fd7_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/07744489-e94e-41ef-a971-5d01a0db7b8b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/07744489-e94e-41ef-a971-5d01a0db7b8b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/09fdbfec-ace9-44bd-9049-987eb000955f_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/09fdbfec-ace9-44bd-9049-987eb000955f_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/0e33ad97-7910-4f41-9073-80f6e710541f_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/0e33ad97-7910-4f41-9073-80f6e710541f_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/1861ffae-b30c-4bd7-8f32-a7212ca7028b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/1861ffae-b30c-4bd7-8f32-a7212ca7028b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/1a4784bf-44a5-4301-b6c5-1a798ef45c1f_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/1a4784bf-44a5-4301-b6c5-1a798ef45c1f_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/1cd4c9f4-2554-4e89-9ee7-02fd72158478_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/1cd4c9f4-2554-4e89-9ee7-02fd72158478_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/1e0325f9-b424-4783-aacb-4f93fd6fca9a_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/1e0325f9-b424-4783-aacb-4f93fd6fca9a_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/1fbf045a-a105-4c55-aa54-a04d5a51f17d_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/1fbf045a-a105-4c55-aa54-a04d5a51f17d_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/209d9abc-53b6-4bd2-a128-d1af5bf72ff4_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/209d9abc-53b6-4bd2-a128-d1af5bf72ff4_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/22c93ee7-879b-40d4-8f65-19fab5194360_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/22c93ee7-879b-40d4-8f65-19fab5194360_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/25b6ef04-ad0f-4cd4-822b-bb9d23bd508a_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/25b6ef04-ad0f-4cd4-822b-bb9d23bd508a_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/29cefc99-726d-4842-b922-4a7c1f7b7f03_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/29cefc99-726d-4842-b922-4a7c1f7b7f03_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3018b9e8-ff52-41f5-baaa-45176ea70a72_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3018b9e8-ff52-41f5-baaa-45176ea70a72_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/314afa69-1924-465b-89a2-cb65302dea68_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/314afa69-1924-465b-89a2-cb65302dea68_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3159842e-6526-4bd3-bbe4-c488d63844aa_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3159842e-6526-4bd3-bbe4-c488d63844aa_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/31d0e5c9-170a-4cbd-8994-c7b861b481bd_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/31d0e5c9-170a-4cbd-8994-c7b861b481bd_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3870ff38-1ca4-45b6-a36d-d3452f8e9e6f_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3870ff38-1ca4-45b6-a36d-d3452f8e9e6f_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3a827660-225e-4c54-9867-6df195e55255_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3a827660-225e-4c54-9867-6df195e55255_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3b0faa5c-fb6a-44a9-8251-d79a4a700a56_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3b0faa5c-fb6a-44a9-8251-d79a4a700a56_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3c6a7fc7-8aca-436d-a229-1f76f5c22729_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3c6a7fc7-8aca-436d-a229-1f76f5c22729_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3c712fa2-0e61-4d18-9123-2d235daa9527_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3c712fa2-0e61-4d18-9123-2d235daa9527_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/3d2c1284-6a2e-482f-b497-786eac9ae6b4_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/3d2c1284-6a2e-482f-b497-786eac9ae6b4_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/42403990-02c7-467c-876d-e7e13a521b48_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/42403990-02c7-467c-876d-e7e13a521b48_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/450b3aac-c628-4e2f-bed0-331b47136f5b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/450b3aac-c628-4e2f-bed0-331b47136f5b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/46df6579-5891-43dc-9371-5bbf9f0b8f35_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/46df6579-5891-43dc-9371-5bbf9f0b8f35_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/49bf0366-586c-4071-bee8-b65e90e06990_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/49bf0366-586c-4071-bee8-b65e90e06990_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/5184b58a-e868-427f-9e4d-8c7abc52fb20_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/5184b58a-e868-427f-9e4d-8c7abc52fb20_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/51931b93-0f2a-468f-9a92-a87c36c9c9f1_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/51931b93-0f2a-468f-9a92-a87c36c9c9f1_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/54d610eb-6170-4b9a-ab73-97ae87fd3e47_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/54d610eb-6170-4b9a-ab73-97ae87fd3e47_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/593fee62-2819-49be-9a94-ff376cb6420b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/593fee62-2819-49be-9a94-ff376cb6420b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/59e5c8af-a960-48ea-9fb3-f72593096856_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/59e5c8af-a960-48ea-9fb3-f72593096856_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/5acd6402-fe34-4094-819f-4fd81a53087a_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/5acd6402-fe34-4094-819f-4fd81a53087a_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/5c6da555-4ea6-4538-bff1-45aff922dc7a_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/5c6da555-4ea6-4538-bff1-45aff922dc7a_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/5f6fd806-dd58-4a43-b766-1fa375dd3081_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/5f6fd806-dd58-4a43-b766-1fa375dd3081_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/608fc35b-79fc-43eb-a97c-37095849d7bd_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/608fc35b-79fc-43eb-a97c-37095849d7bd_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/60b7a98a-6bb2-4189-b23a-2f7997344526_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/60b7a98a-6bb2-4189-b23a-2f7997344526_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/6325a1cb-9488-40e0-b005-cf837e0f4ded_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/6325a1cb-9488-40e0-b005-cf837e0f4ded_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/64ab3368-532d-4175-91a9-34c69a3527c0_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/64ab3368-532d-4175-91a9-34c69a3527c0_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/64ac76e5-6c45-4e32-aae0-e7b2f6c03cd6_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/64ac76e5-6c45-4e32-aae0-e7b2f6c03cd6_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/659ffbc9-5bef-4744-ade4-cdf53707e334_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/659ffbc9-5bef-4744-ade4-cdf53707e334_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/672acb0a-d3b4-4133-8ae1-a0ff809ecf23_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/672acb0a-d3b4-4133-8ae1-a0ff809ecf23_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/67514e55-0bd4-49a0-8513-7259da85be01_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/67514e55-0bd4-49a0-8513-7259da85be01_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/6a734ac1-b7d9-434b-82e1-8093bcfb5b82_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/6a734ac1-b7d9-434b-82e1-8093bcfb5b82_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/6f3e30d4-5762-4e18-9334-3a610911f0d3_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/6f3e30d4-5762-4e18-9334-3a610911f0d3_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/74470b9c-5bb5-4e7e-9c31-5424a88748b7_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/74470b9c-5bb5-4e7e-9c31-5424a88748b7_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/74afbf65-4d5b-45c1-a370-2afb5ee5e383_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/74afbf65-4d5b-45c1-a370-2afb5ee5e383_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/7890078d-50ce-48cd-b8f3-b7c68b0c7717_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/7890078d-50ce-48cd-b8f3-b7c68b0c7717_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/78de131e-bb0c-4a85-914d-08c2d3e34ab6_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/78de131e-bb0c-4a85-914d-08c2d3e34ab6_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/7a7b5798-69c3-4c1b-841c-e16d2b22cc30_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/7a7b5798-69c3-4c1b-841c-e16d2b22cc30_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/7b33b71e-5904-4668-abb1-e3b5244ec46c_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/7b33b71e-5904-4668-abb1-e3b5244ec46c_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/7c9b8aeb-6154-4d63-8a13-c10e55a1ce5e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/7c9b8aeb-6154-4d63-8a13-c10e55a1ce5e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/7ea6acc6-473c-47aa-9d60-f0920cfc8b22_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/7ea6acc6-473c-47aa-9d60-f0920cfc8b22_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/81651008-ed26-41ba-8038-53e2c01ef1bb_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/81651008-ed26-41ba-8038-53e2c01ef1bb_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/887aa56b-f34b-46c7-9f91-308be3e4a945_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/887aa56b-f34b-46c7-9f91-308be3e4a945_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/8ba5111b-7a56-4159-aac6-4f9239860541_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/8ba5111b-7a56-4159-aac6-4f9239860541_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/95f1e6f7-5e40-4524-aaf1-5b38b560821a_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/95f1e6f7-5e40-4524-aaf1-5b38b560821a_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/9a7dd729-1c41-4b25-981e-cc3bd6f04cc4_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/9a7dd729-1c41-4b25-981e-cc3bd6f04cc4_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/9d04d94d-00f7-46dd-969b-be61b30006c9_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/9d04d94d-00f7-46dd-969b-be61b30006c9_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/9d8ce5e0-1933-4959-8e17-88dc4793bc06_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/9d8ce5e0-1933-4959-8e17-88dc4793bc06_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/9dc209b0-af4d-4d2a-9b01-1a9f10f2bca4_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/9dc209b0-af4d-4d2a-9b01-1a9f10f2bca4_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/9f1c74a3-a70d-4a90-ae5d-517651c0163b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/9f1c74a3-a70d-4a90-ae5d-517651c0163b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/a7c73061-14fd-4530-9b74-45e4bc3e8082_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/a7c73061-14fd-4530-9b74-45e4bc3e8082_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/aa1bb5ec-c83e-4065-9302-a94118f3c2f6_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/aa1bb5ec-c83e-4065-9302-a94118f3c2f6_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/anquan.jpg" afterPath="$PROJECT_DIR$/public/images/server/anquan.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/b3879f1d-ee9e-485e-84b0-1a04584d4466_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/b3879f1d-ee9e-485e-84b0-1a04584d4466_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/b5891090-c1d0-4d49-b009-4f4103065b8a_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/b5891090-c1d0-4d49-b009-4f4103065b8a_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/b752928c-0310-407b-9baf-71bde48b07a3_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/b752928c-0310-407b-9baf-71bde48b07a3_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/ba8e46bb-d7e1-4d91-8484-def9401a23f2_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/ba8e46bb-d7e1-4d91-8484-def9401a23f2_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/bbcada1d-ff8f-45d6-ab1a-f6cb3d14b211_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/bbcada1d-ff8f-45d6-ab1a-f6cb3d14b211_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/bea731e3-c8a5-43d0-b704-a4af27dd8e9e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/bea731e3-c8a5-43d0-b704-a4af27dd8e9e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/c6e90a16-e136-46f9-a8e3-955ef581918e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/c6e90a16-e136-46f9-a8e3-955ef581918e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/c8d6360d-ca1e-4a5d-a464-d25f63285144_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/c8d6360d-ca1e-4a5d-a464-d25f63285144_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/c9acc82d-281f-4d7c-b6a5-6bcadcdcc5d2_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/c9acc82d-281f-4d7c-b6a5-6bcadcdcc5d2_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/cab26b89-7b5b-4ddb-81cf-ff14de30d424_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/cab26b89-7b5b-4ddb-81cf-ff14de30d424_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/cb79d22d-e6c1-4c37-9cc8-6399ece4bfad_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/cb79d22d-e6c1-4c37-9cc8-6399ece4bfad_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/ce867164-1b76-488c-b9fd-fabc7cff326e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/ce867164-1b76-488c-b9fd-fabc7cff326e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/ce9dd147-e069-4699-87ee-a2e2a300247b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/ce9dd147-e069-4699-87ee-a2e2a300247b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/citypoint.png" afterPath="$PROJECT_DIR$/public/images/server/citypoint.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/citypoint@2x.png" afterPath="$PROJECT_DIR$/public/images/server/citypoint@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/d075155c-78d4-41e3-8bec-618c5f80c2ff_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/d075155c-78d4-41e3-8bec-618c5f80c2ff_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/d1e3d128-f8a7-4310-97f2-35c98a89d281_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/d1e3d128-f8a7-4310-97f2-35c98a89d281_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/d2111364-b0f8-4bd2-8ee3-f91a6c0450e9_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/d2111364-b0f8-4bd2-8ee3-f91a6c0450e9_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/d4ddc0e6-c962-48f4-9caf-44a5ef42d6ca_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/d4ddc0e6-c962-48f4-9caf-44a5ef42d6ca_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/d7b984aa-5ead-4aa1-bf61-ac0dfef46108_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/d7b984aa-5ead-4aa1-bf61-ac0dfef46108_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/daowayApp.png" afterPath="$PROJECT_DIR$/public/images/server/daowayApp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/db7b6f31-8bae-482a-bc57-642e3cf58f5e_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/db7b6f31-8bae-482a-bc57-642e3cf58f5e_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/dec745ad-33f9-4cdb-8d93-3c6c4403ca71_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/dec745ad-33f9-4cdb-8d93-3c6c4403ca71_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/e2019903-8655-45a0-9dd0-47844b953fd2_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/e2019903-8655-45a0-9dd0-47844b953fd2_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/e215efdd-0fd8-41ae-96e6-c97d0b973e7c_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/e215efdd-0fd8-41ae-96e6-c97d0b973e7c_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/e80a1eb7-be5d-4f1c-ac0d-9c4282519382_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/e80a1eb7-be5d-4f1c-ac0d-9c4282519382_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/e8419c3c-a302-484c-a0c2-67fc7b87e77d_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/e8419c3c-a302-484c-a0c2-67fc7b87e77d_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/e874effd-75d5-408a-84a9-73bfe135b666_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/e874effd-75d5-408a-84a9-73bfe135b666_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/f2a7715c-b68a-46c3-ab97-a661871e1310_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/f2a7715c-b68a-46c3-ab97-a661871e1310_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/f2cab4c4-20c2-47d4-aa84-ce2c01057c0f_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/f2cab4c4-20c2-47d4-aa84-ce2c01057c0f_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/f9e85fcb-3017-49fe-9983-91c7c4ecaf5b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/f9e85fcb-3017-49fe-9983-91c7c4ecaf5b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/faa7757b-0c49-4a42-8b18-086ffdd4dea1_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/faa7757b-0c49-4a42-8b18-086ffdd4dea1_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/fba7e0c9-d032-4e3c-812e-b290deea4c5b_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/fba7e0c9-d032-4e3c-812e-b290deea4c5b_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/fbc97e65-6f09-4244-bfd5-91ed25e529a9_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/fbc97e65-6f09-4244-bfd5-91ed25e529a9_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/fdb50535-ad25-46b6-a813-1cb51c3d7ca3_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/fdb50535-ad25-46b6-a813-1cb51c3d7ca3_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/fe7a0f28-963d-4a9f-a812-ddd6b8a5f348_thumb.jpg" afterPath="$PROJECT_DIR$/public/images/server/fe7a0f28-963d-4a9f-a812-ddd6b8a5f348_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/home1.png" afterPath="$PROJECT_DIR$/public/images/server/home1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/ic-x-gray.svg" afterPath="$PROJECT_DIR$/public/images/server/ic-x-gray.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/logo.png" afterPath="$PROJECT_DIR$/public/images/server/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/logo@2x.png" afterPath="$PROJECT_DIR$/public/images/server/logo@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/tuijianfuwushang_03.jpg" afterPath="$PROJECT_DIR$/public/images/server/tuijianfuwushang_03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/server/tuijianfuwushang_06.jpg" afterPath="$PROJECT_DIR$/public/images/server/tuijianfuwushang_06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-1.10.1.js" afterPath="$PROJECT_DIR$/public/js/jquery-1.10.1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/swiper.js" afterPath="$PROJECT_DIR$/public/js/swiper.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/less/index.less" afterPath="$PROJECT_DIR$/public/less/index.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/less/yunjiazheng.less" afterPath="$PROJECT_DIR$/public/less/yunjiazheng.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server.html" afterPath="$PROJECT_DIR$/public/server.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/yunjiazheng.html" afterPath="$PROJECT_DIR$/public/yunjiazheng.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,41 +251,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="yunjiazheng.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yunjiazheng.html">
+      <file leaf-file-name="daowei.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/daowei.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="862">
+              <caret line="766" column="2" lean-forward="false" selection-start-line="766" selection-start-column="2" selection-end-line="766" selection-end-column="2" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#6;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#span#0;n#div#1;n#div#1;n#div#0;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#div#1;n#div#0;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#span#0;n#div#4;n#div#1;n#div#0;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#4;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#4;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#5;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/t/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="389" column="17" lean-forward="true" selection-start-line="389" selection-start-column="17" selection-end-line="389" selection-end-column="17" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#5465#7557#0" expanded="false" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -64,10 +290,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Less File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -101,26 +327,52 @@
         <option value="$PROJECT_DIR$/js/swiper.js" />
         <option value="$PROJECT_DIR$/css/swiper.css" />
         <option value="$PROJECT_DIR$/i.html" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/Daowei.html" />
         <option value="$PROJECT_DIR$/less/keep.less" />
         <option value="$PROJECT_DIR$/server.html" />
         <option value="$PROJECT_DIR$/less/index.less" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/test_head_hideandshow.html" />
+        <option value="$PROJECT_DIR$/try_catch.html" />
         <option value="$PROJECT_DIR$/yunjiazheng.html" />
         <option value="$PROJECT_DIR$/less/yunjiazheng.less" />
+        <option value="$PROJECT_DIR$/test_head_hideandshow2.html" />
+        <option value="$PROJECT_DIR$/mongdb/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/tools/db.js" />
+        <option value="$PROJECT_DIR$/public/js/daowei.js" />
+        <option value="$PROJECT_DIR$/models/Services.js" />
+        <option value="$PROJECT_DIR$/test/index.js" />
+        <option value="$PROJECT_DIR$/t/index.html" />
+        <option value="$PROJECT_DIR$/public/js/yunjiazheng.js" />
+        <option value="$PROJECT_DIR$/public/yunjiazheng.html" />
+        <option value="$PROJECT_DIR$/public/daowei.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1055" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="725" />
+    <option name="y" value="143" />
+    <option name="width" value="931" />
+    <option name="height" value="927" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,6 +390,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,23 +401,30 @@
             <path>
               <item name="daowei" type="b2602c69:ProjectViewProjectNode" />
               <item name="daowei" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="daowei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daowei" type="462c0819:PsiDirectoryNode" />
+              <item name="t" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jQuery/jQuery/prepare" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mongoose" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -173,6 +433,7 @@
       <recent name="D:\Aqianduan\shizhan\daowei\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Aqianduan\shizhan\daowei\public" />
       <recent name="D:\Aqianduan\shizhan\daowei\js" />
     </key>
   </component>
@@ -187,6 +448,44 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Mongo.db.js (1)">
+    <configuration name="db.js (1)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <setting name="path" value="$PROJECT_DIR$/tools/db.js" />
+      <setting name="shellParams" value="" />
+    </configuration>
+    <configuration name="db.js (3)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <setting name="path" value="$PROJECT_DIR$/tools/db.js" />
+      <setting name="shellParams" value="" />
+    </configuration>
+    <configuration name="db.js (4)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <setting name="path" value="$PROJECT_DIR$/tools/db.js" />
+      <setting name="shellParams" value="" />
+    </configuration>
+    <configuration name="db.js (5)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <setting name="path" value="$PROJECT_DIR$/tools/db.js" />
+      <setting name="shellParams" value="" />
+    </configuration>
+    <configuration name="db.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <setting name="path" value="$PROJECT_DIR$/tools/db.js" />
+      <setting name="shellParams" value="" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Mongo.db.js (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Mongo.db.js (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Mongo.db.js (5)" />
+      <item index="3" class="java.lang.String" itemvalue="Mongo.db.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mongo.db.js (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Mongo.db.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Mongo.db.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mongo.db.js (5)" />
+        <item index="3" class="java.lang.String" itemvalue="Mongo.db.js (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Mongo.db.js (3)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -203,7 +502,10 @@
       <workItem from="1521017291383" duration="11179000" />
       <workItem from="1521032220370" duration="13358000" />
       <workItem from="1521073590897" duration="14129000" />
-      <workItem from="1521092983897" duration="32044000" />
+      <workItem from="1521092983897" duration="43028000" />
+      <workItem from="1521174939602" duration="9325000" />
+      <workItem from="1521187580062" duration="1635000" />
+      <workItem from="1521189256056" duration="17096000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1521022106595</created>
@@ -223,28 +525,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93515000" />
+    <option name="totallyTimeSpent" value="132555000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1064" extended-state="7" />
+    <frame x="725" y="143" width="931" height="927" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09221748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29850745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20215054" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20215054" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18924731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3556116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -263,193 +565,146 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/daowei.html">
+    <entry file="file://$PROJECT_DIR$/test_head_hideandshow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/less/yunjiazheng.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#309#1445#0" expanded="false" />
+            <element signature="e#400#624#0" expanded="false" />
+            <element signature="e#818#994#0" expanded="false" />
+            <element signature="e#884#941#0" expanded="false" />
+            <element signature="e#1005#1242#0" expanded="false" />
+            <element signature="e#1564#1629#0" expanded="false" />
+            <element signature="e#1660#3335#0" expanded="false" />
+            <element signature="e#1792#2736#0" expanded="false" />
+            <element signature="e#2331#2722#0" expanded="false" />
+            <element signature="e#2759#3330#0" expanded="false" />
+            <element signature="e#4049#4543#0" expanded="false" />
+            <element signature="e#4199#4398#0" expanded="false" />
+            <element signature="e#4410#4534#0" expanded="false" />
+            <element signature="e#4693#4826#0" expanded="false" />
+            <element signature="e#4849#5716#0" expanded="false" />
+            <element signature="e#5005#5075#0" expanded="false" />
+            <element signature="e#5100#5248#0" expanded="false" />
+            <element signature="e#5273#5470#0" expanded="false" />
+            <element signature="e#5495#5706#0" expanded="false" />
+            <element signature="e#5739#5949#0" expanded="false" />
+            <element signature="e#5893#5938#0" expanded="false" />
+            <element signature="e#6034#6154#0" expanded="false" />
+            <element signature="e#6178#6279#0" expanded="false" />
+            <element signature="e#6644#8096#0" expanded="false" />
+            <element signature="e#6765#6895#0" expanded="false" />
+            <element signature="e#6928#8086#0" expanded="false" />
+            <element signature="e#7063#7139#0" expanded="false" />
+            <element signature="e#7163#7415#0" expanded="false" />
+            <element signature="e#7348#7401#0" expanded="false" />
+            <element signature="e#7440#7519#0" expanded="false" />
+            <element signature="e#7548#7794#0" expanded="false" />
+            <element signature="e#7596#7780#0" expanded="false" />
+            <element signature="e#7816#8074#0" expanded="false" />
+            <element signature="e#9269#9652#0" expanded="false" />
+            <element signature="e#9579#9636#0" expanded="false" />
+            <element signature="e#10819#10924#0" expanded="false" />
+            <element signature="e#12409#13474#0" expanded="false" />
+            <element signature="e#12567#13109#0" expanded="false" />
+            <element signature="e#12852#12892#0" expanded="false" />
+            <element signature="e#12904#13095#0" expanded="false" />
+            <element signature="e#13284#13471#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="745" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/index.less">
+    <entry file="file://$PROJECT_DIR$/public/less/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5390">
           <caret line="245" column="21" lean-forward="true" selection-start-line="245" selection-start-column="21" selection-end-line="245" selection-end-column="21" />
-          <folding>
-            <element signature="e#52#1258#0" expanded="false" />
-            <element signature="e#211#435#0" expanded="false" />
-            <element signature="e#629#805#0" expanded="false" />
-            <element signature="e#695#752#0" expanded="false" />
-            <element signature="e#816#1053#0" expanded="false" />
-            <element signature="e#1272#2135#0" expanded="false" />
-            <element signature="e#1377#1468#0" expanded="false" />
-            <element signature="e#1480#2131#0" expanded="false" />
-            <element signature="e#2216#2246#0" expanded="false" />
-            <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5437#5601#0" expanded="false" />
-            <element signature="e#5525#5597#0" expanded="false" />
-            <element signature="e#5628#5690#0" expanded="false" />
-            <element signature="e#5710#7710#0" expanded="false" />
-            <element signature="e#6128#6233#0" expanded="false" />
-            <element signature="e#7726#8791#0" expanded="false" />
-            <element signature="e#7884#8426#0" expanded="false" />
-            <element signature="e#8169#8209#0" expanded="false" />
-            <element signature="e#8221#8412#0" expanded="false" />
-            <element signature="e#8601#8788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.html">
+    <entry file="file://$PROJECT_DIR$/public/server.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12606">
           <caret line="573" column="0" lean-forward="true" selection-start-line="573" selection-start-column="0" selection-end-line="573" selection-end-column="0" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daowei.html">
+    <entry file="file://$PROJECT_DIR$/public/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/index.less">
+    <entry file="file://$PROJECT_DIR$/public/less/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6732">
           <caret line="306" column="0" lean-forward="false" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="32" />
-          <folding>
-            <element signature="e#52#1258#0" expanded="false" />
-            <element signature="e#211#435#0" expanded="false" />
-            <element signature="e#629#805#0" expanded="false" />
-            <element signature="e#695#752#0" expanded="false" />
-            <element signature="e#816#1053#0" expanded="false" />
-            <element signature="e#1272#2135#0" expanded="false" />
-            <element signature="e#1377#1468#0" expanded="false" />
-            <element signature="e#1480#2131#0" expanded="false" />
-            <element signature="e#2216#2246#0" expanded="false" />
-            <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5437#5601#0" expanded="false" />
-            <element signature="e#5525#5597#0" expanded="false" />
-            <element signature="e#5628#5690#0" expanded="false" />
-            <element signature="e#5710#7710#0" expanded="false" />
-            <element signature="e#6128#6233#0" expanded="false" />
-            <element signature="e#7726#8791#0" expanded="false" />
-            <element signature="e#7884#8426#0" expanded="false" />
-            <element signature="e#8169#8209#0" expanded="false" />
-            <element signature="e#8221#8412#0" expanded="false" />
-            <element signature="e#8601#8788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daowei.html">
+    <entry file="file://$PROJECT_DIR$/public/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/index.less">
+    <entry file="file://$PROJECT_DIR$/public/less/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2684">
           <caret line="122" column="15" lean-forward="false" selection-start-line="122" selection-start-column="15" selection-end-line="122" selection-end-column="15" />
-          <folding>
-            <element signature="e#52#1258#0" expanded="false" />
-            <element signature="e#211#435#0" expanded="false" />
-            <element signature="e#629#805#0" expanded="false" />
-            <element signature="e#695#752#0" expanded="false" />
-            <element signature="e#816#1053#0" expanded="false" />
-            <element signature="e#1272#2135#0" expanded="false" />
-            <element signature="e#1377#1468#0" expanded="false" />
-            <element signature="e#1480#2131#0" expanded="false" />
-            <element signature="e#2216#2246#0" expanded="false" />
-            <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5437#5601#0" expanded="false" />
-            <element signature="e#5525#5597#0" expanded="false" />
-            <element signature="e#5628#5690#0" expanded="false" />
-            <element signature="e#5710#7710#0" expanded="false" />
-            <element signature="e#6128#6233#0" expanded="false" />
-            <element signature="e#7726#8791#0" expanded="false" />
-            <element signature="e#7884#8426#0" expanded="false" />
-            <element signature="e#8169#8209#0" expanded="false" />
-            <element signature="e#8221#8412#0" expanded="false" />
-            <element signature="e#8601#8788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daowei.html">
+    <entry file="file://$PROJECT_DIR$/public/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/index.less">
+    <entry file="file://$PROJECT_DIR$/public/less/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2266">
           <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-          <folding>
-            <element signature="e#52#1258#0" expanded="false" />
-            <element signature="e#211#435#0" expanded="false" />
-            <element signature="e#629#805#0" expanded="false" />
-            <element signature="e#695#752#0" expanded="false" />
-            <element signature="e#816#1053#0" expanded="false" />
-            <element signature="e#1272#2135#0" expanded="false" />
-            <element signature="e#1377#1468#0" expanded="false" />
-            <element signature="e#1480#2131#0" expanded="false" />
-            <element signature="e#2216#2246#0" expanded="false" />
-            <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5437#5601#0" expanded="false" />
-            <element signature="e#5525#5597#0" expanded="false" />
-            <element signature="e#5628#5690#0" expanded="false" />
-            <element signature="e#5710#7710#0" expanded="false" />
-            <element signature="e#6128#6233#0" expanded="false" />
-            <element signature="e#7726#8791#0" expanded="false" />
-            <element signature="e#7884#8426#0" expanded="false" />
-            <element signature="e#8169#8209#0" expanded="false" />
-            <element signature="e#8221#8412#0" expanded="false" />
-            <element signature="e#8601#8788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daowei.html">
+    <entry file="file://$PROJECT_DIR$/public/daowei.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/header.less" />
     <entry file="file://$PROJECT_DIR$/less/index.js" />
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/public/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-1.10.1.js">
+    <entry file="file://$PROJECT_DIR$/public/js/jquery-1.10.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,7 +716,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/swiper.css">
+    <entry file="file://$PROJECT_DIR$/images/lairen.jpg" />
+    <entry file="file://$PROJECT_DIR$/test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/keep.less" />
+    <entry file="file://$PROJECT_DIR$/public/css/yunjiazheng.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/home_pic/renzheng.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/less/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="116" column="3" lean-forward="true" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/swiper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="97" column="23" lean-forward="true" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_head_hideandshow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_head_hideandshow2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongdb/package.json" />
+    <entry file="file://$PROJECT_DIR$/public/css/swiper.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
@@ -469,69 +788,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/swiper.js">
+    <entry file="file://$PROJECT_DIR$/public/less/yunjiazheng.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2486">
-          <caret line="113" column="29" lean-forward="false" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/lairen.jpg" />
-    <entry file="file://$PROJECT_DIR$/test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/keep.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="266" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="436" selection-end-column="1" />
+        <state relative-caret-position="-242">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <element signature="e#52#1258#0" expanded="false" />
-            <element signature="e#211#435#0" expanded="false" />
-            <element signature="e#629#805#0" expanded="false" />
-            <element signature="e#695#752#0" expanded="false" />
-            <element signature="e#816#1053#0" expanded="false" />
-            <element signature="e#1272#2135#0" expanded="false" />
-            <element signature="e#1377#1468#0" expanded="false" />
-            <element signature="e#1480#2131#0" expanded="false" />
-            <element signature="e#2216#2246#0" expanded="false" />
-            <element signature="e#2269#5409#0" expanded="false" />
-            <element signature="e#5437#5601#0" expanded="false" />
-            <element signature="e#5525#5597#0" expanded="false" />
-            <element signature="e#5628#5690#0" expanded="false" />
-            <element signature="e#5710#7710#0" expanded="false" />
-            <element signature="e#6128#6233#0" expanded="false" />
-            <element signature="e#7726#8791#0" expanded="false" />
-            <element signature="e#7884#8426#0" expanded="false" />
-            <element signature="e#8169#8209#0" expanded="false" />
-            <element signature="e#8221#8412#0" expanded="false" />
-            <element signature="e#8601#8788#0" expanded="false" />
+            <element signature="e#309#1445#0" expanded="false" />
+            <element signature="e#400#624#0" expanded="false" />
+            <element signature="e#818#994#0" expanded="false" />
+            <element signature="e#884#941#0" expanded="false" />
+            <element signature="e#1005#1242#0" expanded="false" />
+            <element signature="e#1564#1629#0" expanded="false" />
+            <element signature="e#1660#3335#0" expanded="false" />
+            <element signature="e#1792#2736#0" expanded="false" />
+            <element signature="e#2331#2722#0" expanded="false" />
+            <element signature="e#2759#3330#0" expanded="false" />
+            <element signature="e#4049#4543#0" expanded="false" />
+            <element signature="e#4199#4398#0" expanded="false" />
+            <element signature="e#4410#4534#0" expanded="false" />
+            <element signature="e#4693#4826#0" expanded="false" />
+            <element signature="e#4849#5716#0" expanded="false" />
+            <element signature="e#5005#5075#0" expanded="false" />
+            <element signature="e#5100#5248#0" expanded="false" />
+            <element signature="e#5273#5470#0" expanded="false" />
+            <element signature="e#5495#5706#0" expanded="false" />
+            <element signature="e#5739#5949#0" expanded="false" />
+            <element signature="e#5893#5938#0" expanded="false" />
+            <element signature="e#6034#6154#0" expanded="false" />
+            <element signature="e#6178#6279#0" expanded="false" />
+            <element signature="e#6644#8096#0" expanded="false" />
+            <element signature="e#6765#6895#0" expanded="false" />
+            <element signature="e#6928#8086#0" expanded="false" />
+            <element signature="e#7063#7139#0" expanded="false" />
+            <element signature="e#7163#7415#0" expanded="false" />
+            <element signature="e#7348#7401#0" expanded="false" />
+            <element signature="e#7440#7519#0" expanded="false" />
+            <element signature="e#7548#7794#0" expanded="false" />
+            <element signature="e#7596#7780#0" expanded="false" />
+            <element signature="e#7816#8074#0" expanded="false" />
+            <element signature="e#9269#9652#0" expanded="false" />
+            <element signature="e#9579#9636#0" expanded="false" />
+            <element signature="e#10819#10924#0" expanded="false" />
+            <element signature="e#12409#13474#0" expanded="false" />
+            <element signature="e#12567#13109#0" expanded="false" />
+            <element signature="e#12852#12892#0" expanded="false" />
+            <element signature="e#12904#13095#0" expanded="false" />
+            <element signature="e#13284#13471#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/yunjiazheng.css">
+    <entry file="file://$PROJECT_DIR$/../template-web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mongdb/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -539,108 +854,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/home_pic/renzheng.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.html">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="205" column="0" lean-forward="true" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="-1519">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daowei.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="55" column="12" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
-          <folding>
-            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/yunjiazheng.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-          <folding>
-            <element signature="e#52#1258#0" expanded="false" />
-            <element signature="e#211#435#0" expanded="false" />
-            <element signature="e#629#805#0" expanded="false" />
-            <element signature="e#695#752#0" expanded="false" />
-            <element signature="e#816#1053#0" expanded="false" />
-            <element signature="e#1450#3125#0" expanded="false" />
-            <element signature="e#1582#2526#0" expanded="false" />
-            <element signature="e#2121#2512#0" expanded="false" />
-            <element signature="e#2549#3120#0" expanded="false" />
-            <element signature="e#3141#3591#0" expanded="false" />
-            <element signature="e#3218#3586#0" expanded="false" />
-            <element signature="e#3320#3580#0" expanded="false" />
-            <element signature="e#3737#9473#0" expanded="false" />
-            <element signature="e#3818#4312#0" expanded="false" />
-            <element signature="e#3968#4167#0" expanded="false" />
-            <element signature="e#4179#4303#0" expanded="false" />
-            <element signature="e#4462#4595#0" expanded="false" />
-            <element signature="e#4618#5485#0" expanded="false" />
-            <element signature="e#4774#4844#0" expanded="false" />
-            <element signature="e#4869#5017#0" expanded="false" />
-            <element signature="e#5042#5239#0" expanded="false" />
-            <element signature="e#5264#5475#0" expanded="false" />
-            <element signature="e#5508#5718#0" expanded="false" />
-            <element signature="e#5662#5707#0" expanded="false" />
-            <element signature="e#5803#5923#0" expanded="false" />
-            <element signature="e#5947#6048#0" expanded="false" />
-            <element signature="e#6413#7865#0" expanded="false" />
-            <element signature="e#6534#6664#0" expanded="false" />
-            <element signature="e#6697#7855#0" expanded="false" />
-            <element signature="e#6832#6908#0" expanded="false" />
-            <element signature="e#6932#7184#0" expanded="false" />
-            <element signature="e#7117#7170#0" expanded="false" />
-            <element signature="e#7209#7288#0" expanded="false" />
-            <element signature="e#7317#7563#0" expanded="false" />
-            <element signature="e#7365#7549#0" expanded="false" />
-            <element signature="e#7585#7843#0" expanded="false" />
-            <element signature="e#9038#9421#0" expanded="false" />
-            <element signature="e#9348#9405#0" expanded="false" />
-            <element signature="e#10588#10693#0" expanded="false" />
-            <element signature="e#12178#13243#0" expanded="false" />
-            <element signature="e#12336#12878#0" expanded="false" />
-            <element signature="e#12621#12661#0" expanded="false" />
-            <element signature="e#12673#12864#0" expanded="false" />
-            <element signature="e#13053#13240#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunjiazheng.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/server.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1276">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/daowei.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/yunjiazheng.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="389" column="17" lean-forward="true" selection-start-line="389" selection-start-column="17" selection-end-line="389" selection-end-column="17" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#5465#7557#0" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/yunjiazheng.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="397" column="54" lean-forward="false" selection-start-line="397" selection-start-column="54" selection-end-line="397" selection-end-column="54" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -661,10 +1014,29 @@
             <element signature="n#div#0;n#div#4;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#4;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#5;n#div#7;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#12288#12374#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/daowei.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="766" column="2" lean-forward="false" selection-start-line="766" selection-start-column="2" selection-end-line="766" selection-end-column="2" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
