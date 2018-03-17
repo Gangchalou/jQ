@@ -10,6 +10,14 @@ html {
   position: fixed;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.13);
   z-index: 20;
+  transition: top .5s;
+}
+.header.hiddened {
+  top: -71px;
+}
+.header.showed {
+  top: 0;
+  z-index: 9999;
 }
 .header .header_wrap {
   width: 1522px;
