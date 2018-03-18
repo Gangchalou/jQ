@@ -160,7 +160,7 @@ html {
   height: 40px;
   margin: 0 auto;
 }
-.home_server .menu .menu_list > span {
+.home_server .menu .menu_list > a {
   text-align: center;
   display: block;
   width: 140px;
@@ -168,8 +168,9 @@ html {
   line-height: 40px;
   float: left;
   color: #ffffff;
+  text-decoration: none;
 }
-.home_server .menu .menu_list > span.menu_list_on {
+.home_server .menu .menu_list > a.acv {
   background: #ccc;
 }
 .home_server .home_container {
@@ -268,6 +269,11 @@ html {
   line-height: 40px;
   font-size: 18px;
   margin: 10px 25px;
+  /* img{
+            display: block;
+            width: 40px;
+            height: 40px;
+          }*/
 }
 .home_server .home_container .home_container_left .home_wrap .home_wrap_down {
   line-height: 28px;
@@ -295,11 +301,16 @@ html {
   overflow: hidden;
   width: 100%;
 }
-.home_server .home_container .home_container_left .common_list .common_item .home_wrap_top {
+.home_server .home_container .home_container_left .common_list .common_item .home_wrap_top_right {
   height: 40px;
   line-height: 40px;
   font-size: 18px;
   margin: 10px 25px;
+}
+.home_server .home_container .home_container_left .common_list .common_item .home_wrap_top_right img {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
 }
 .home_server .home_container .home_container_left .common_list .common_item .home_rating_container {
   float: right;
@@ -345,16 +356,20 @@ html {
 .home_server .home_container .home_container_left .common_list .common_item .home_rating_container .location span em {
   font-style: normal;
 }
-.home_server .home_container .home_container_left .common_list .common_page {
+.home_server .home_container .home_container_left .page {
   width: 960px;
   height: 152px;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border {
+.home_server .home_container .home_container_left .page .common_page {
+  width: 960px;
+  height: 152px;
+}
+.home_server .home_container .home_container_left .page .common_page .common_page_border {
   width: 632px;
   height: 130px;
   margin: 0 auto;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border > a:nth-child(1) {
+.home_server .home_container .home_container_left .page .common_page .common_page_border > a:nth-child(1) {
   text-decoration: none;
   display: inline-block;
   width: 60px;
@@ -365,10 +380,10 @@ html {
   text-align: center;
   line-height: 30px;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border > a:nth-child(1):hover {
+.home_server .home_container .home_container_left .page .common_page .common_page_border > a:nth-child(1):hover {
   background: #fe454a;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border > a:nth-child(3) {
+.home_server .home_container .home_container_left .page .common_page .common_page_border > a:nth-child(3) {
   text-decoration: none;
   display: inline-block;
   width: 60px;
@@ -379,16 +394,16 @@ html {
   text-align: center;
   line-height: 30px;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border > a:nth-child(3):hover {
+.home_server .home_container .home_container_left .page .common_page .common_page_border > a:nth-child(3):hover {
   background: #fe454a;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border .common_list_num {
+.home_server .home_container .home_container_left .page .common_page .common_page_border .common_list_num {
   float: left;
   margin: 0 auto;
   width: 485px;
   height: 130px;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border .common_list_num > a {
+.home_server .home_container .home_container_left .page .common_page .common_page_border .common_list_num > a {
   text-decoration: none;
   display: inline-block;
   width: 30px;
@@ -398,7 +413,7 @@ html {
   line-height: 30px;
   border: 1px solid #e5e5e5;
 }
-.home_server .home_container .home_container_left .common_list .common_page .common_page_border .common_list_num > a:hover {
+.home_server .home_container .home_container_left .page .common_page .common_page_border .common_list_num > a:hover {
   background: #fe454a;
 }
 .home_server .home_container .home_container_right {

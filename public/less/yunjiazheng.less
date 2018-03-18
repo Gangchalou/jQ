@@ -182,7 +182,7 @@ body, html{
       height: 40px;
       //background: gold;
       margin: 0 auto;
-      >span{
+      >a{
         text-align: center;
         display: block;
         width: 140px;
@@ -190,8 +190,9 @@ body, html{
         line-height: 40px;
         float: left;
         color: #ffffff;
+        text-decoration: none;
         //此处可以使用类名控制
-        &.menu_list_on{
+        &.acv{
           background: #ccc;
         }
       }
@@ -299,6 +300,11 @@ body, html{
           line-height: 40px;
           font-size: 18px;
           margin: 10px 25px;
+         /* img{
+            display: block;
+            width: 40px;
+            height: 40px;
+          }*/
         }
         .home_wrap_down{
           line-height: 28px;
@@ -329,11 +335,16 @@ body, html{
           border-bottom: 1px solid #e5e5e5;
           overflow: hidden;
           width: 100%;
-          .home_wrap_top{
+          .home_wrap_top_right{
             height: 40px;
             line-height: 40px;
             font-size: 18px;
             margin: 10px 25px;
+            img{
+              width: 40px;
+              height: 40px;
+              border-radius: 10px;
+            }
           }
           .home_rating_container{
             float: right;
@@ -385,6 +396,12 @@ body, html{
             }
           }
         }
+
+      }
+
+      .page{
+        width: 960px;
+        height: 152px;
         .common_page{
           width: 960px;
           height: 152px;
@@ -440,8 +457,6 @@ body, html{
               }
             }
           }
-
-
         }
       }
     }

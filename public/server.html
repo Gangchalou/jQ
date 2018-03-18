@@ -230,18 +230,22 @@
   <!--template模板-->
   <script  id="temp2" type="text/html">
     {{each data.list}}
-    <li>
-      <img src={{$value.imgUrl}} alt="pic">
-      <p class="p1">
-                <span>
-                  <img src="images/home1.png">{{$value.title}}
-                </span>
-      </p>
-      <p class="p2">
-        <span class="p2-1">{{$value.orderCount}}</span>
-        <span class="p2-2">好评{{$value.positiveRate}}</span>
-      </p>
-    </li>
+    <a href="yunjiazheng.html">
+      <li>
+        <img src={{$value.imgUrl}} alt="pic">
+        <p class="p1">
+          <span>
+            <img src="images/home1.png">{{$value.title}}
+          </span>
+        </p>
+        <p class="p2">
+          <span class="p2-1">{{$value.orderCount}}</span>
+          <span class="p2-2">好评{{$value.positiveRate}}</span>
+        </p>
+      </li>
+    </a>
+
+
     {{/each}}
   </script>
 

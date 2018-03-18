@@ -76,7 +76,6 @@ app.get('/getCommentList',function (req, res) {
 })
 
 
-
 //监听3000端口，并启动服务器
 app.listen(3005)
 
